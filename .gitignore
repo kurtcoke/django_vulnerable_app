@@ -2,6 +2,6 @@
 *.db
 .*.sw?
 .DS_Store
-bin/*
-include/*
-lib/*
+bin/
+include/
+lib/
